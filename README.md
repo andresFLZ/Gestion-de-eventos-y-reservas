@@ -18,4 +18,7 @@
 * hacer la aplicación lo más completa y profesional posible (3/5)
 * Perfeccionar mis capacidades en las 2 primeras etapas del ciclo de vida del software: análisis, diseño y desarrollo del código (3/5)
 
+## Proceso
+
+* Etapa 0: Etapa de entendimiento y elección de herramienta y tecnologías: En esta etapa lo que busco es seleccionar las herramientas para desarrollar el software
 
