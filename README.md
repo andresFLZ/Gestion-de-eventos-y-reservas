@@ -20,5 +20,5 @@
 
 ## Proceso
 
-* Etapa 0: Etapa de entendimiento y elección de herramienta y tecnologías: En esta etapa lo que busco es seleccionar las herramientas para desarrollar el software
-
+* Etapa 0 - Etapa de entendimiento y elección de herramienta y tecnologías: En esta etapa lo que busco es seleccionar las herramientas para desarrollar el software
+* Etapa 1 - Etapa de análisis y diseño: Lo que busco en esta etapa es implementar los diagramas, levantamiento de requerimientos, diseño de base de datos y todo lo relacionado a la estructuración del proyecto como tal, teniendo en cuenta las herramientas, tecnologías y demás que se escogió en la etapa anterior
